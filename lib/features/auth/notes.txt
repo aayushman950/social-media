@@ -1,0 +1,3 @@
+domain layer = core logic of this app. heart of the app.
+
+presentation layer has frontend
